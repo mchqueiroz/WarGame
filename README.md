@@ -6,6 +6,10 @@ This is a terminal-based system written in C designed to manage users, classifie
 -----
 
 Watch The Video
+
+
+
+
 [![Watch the video](https://img.youtube.com/vi/qmwGJ_zNex4/0.jpg)](https://www.youtube.com/watch?v=qmwGJ_zNex4)
 
 
