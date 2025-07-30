@@ -5,10 +5,7 @@ This is a terminal-based system written in C designed to manage users, classifie
 
 -----
 
-
-
-https://github.com/user-attachments/assets/28c9f38c-5a22-4235-b108-4620afa4ac21
-
+https://github.com/user-attachments/assets/e7aa98ff-68fc-43b8-808b-09a4ebc5ab92
 
 
 ## Features
