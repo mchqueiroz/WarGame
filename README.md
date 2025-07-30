@@ -1,6 +1,6 @@
 -----
 
-# Wargame
+# WarRoom
 This is a terminal-based system written in C designed to manage users, classified blocks/reports, aerospace assets, direct messages, and operational groups within a simulated aerospace organization. **Wargame** provides a secure environment for operators to store, retrieve, and share critical information, simulating a strategic command and control interface.
 
 -----
