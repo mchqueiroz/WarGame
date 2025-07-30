@@ -5,13 +5,6 @@ This is a terminal-based system written in C designed to manage users, classifie
 
 -----
 
-
-
-https://github.com/user-attachments/assets/c00112c3-c818-4a78-b2e9-d2b8dd3e16ab
-
-
-
-
 ## Features
 
   * **Operator Management:**
