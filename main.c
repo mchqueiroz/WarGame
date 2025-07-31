@@ -35,7 +35,7 @@ typedef enum {
 // Structures
 typedef struct {
     char username[MAX_USERNAME];
-    int password; // Future Improvement: Implement password hashing
+    int password;
     Rank rank;
     char unit[MAX_UNIT_NAME];
 } User;
@@ -44,7 +44,7 @@ typedef struct {
     char owner[MAX_USERNAME];
     char title[MAX_BLOCK_TITLE];
     char content[MAX_BLOCK_CONTENT];
-    int key; // Future Improvement: Consider more robust key management
+    int key; 
     BlockType type;
     Rank min_access_rank;
     char linked_asset_id[ID_LEN];
@@ -64,7 +64,7 @@ typedef struct {
     char sender[MAX_USERNAME];
     char receiver[MAX_USERNAME];
     char message[MAX_BLOCK_CONTENT];
-    int key; // Future Improvement: Consider more robust key management
+    int key;
 } DirectMessage;
 
 typedef struct {
