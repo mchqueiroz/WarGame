@@ -1,7 +1,7 @@
 -----
 
 # WarRoom
-This is a terminal-based system written in C designed to manage users, classified blocks/reports, aerospace assets, direct messages, and operational groups within a simulated aerospace organization. **Wargame** provides a secure environment for operators to store, retrieve, and share critical information, simulating a strategic command and control interface.
+This is a terminal-based system written in C designed to manage users, classified blocks/reports, aerospace assets, direct messages, and operational groups within a simulated aerospace organization. **WarRoom** provides a secure environment for operators to store, retrieve, and share critical information, simulating a strategic command and control interface.
 
 -----
 
@@ -60,7 +60,7 @@ Watch The Video
 
 ### Prerequisites
 
-To compile and run **Wargame**, you'll need a C compiler (like GCC).
+To compile and run **WarRoom**, you'll need a C compiler (like GCC).
 
 ### Compilation
 
@@ -82,7 +82,7 @@ After successful compilation, you can run the executable:
 
 ## How to Use
 
-When you run **Wargame**, you'll be presented with the **Main Access Terminal** menu:
+When you run **WarRoom**, you'll be presented with the **Main Access Terminal** menu:
 
 ```
 =================================================================
