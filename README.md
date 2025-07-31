@@ -171,9 +171,3 @@ This project is a foundational implementation of a terminal-based system. Feel f
   * **GUI Interface:** Develop a graphical user interface for a more modern and intuitive user experience.
 
 -----
-
-## License
-
-This project is open-source and available under the [MIT License](https://www.google.com/search?q=LICENSE).
-
------
