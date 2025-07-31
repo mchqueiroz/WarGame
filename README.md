@@ -67,7 +67,7 @@ To compile and run **Wargame**, you'll need a C compiler (like GCC).
 Navigate to the project directory in your terminal and compile the source code:
 
 ```bash
-gcc -o wargame main.c -Wall
+gcc -o warroom main.c -Wall
 ```
 
 ### Running the Application
@@ -75,7 +75,7 @@ gcc -o wargame main.c -Wall
 After successful compilation, you can run the executable:
 
 ```bash
-./wargame
+./warroom
 ```
 
 -----
@@ -143,7 +143,7 @@ Follow the on-screen prompts to interact with the system. Pay attention to the `
 
 ## File Storage
 
-**Wargame** persists data using binary files in the same directory as the executable:
+**WarRoom** persists data using binary files in the same directory as the executable:
 
   * `users.dat`: Stores operator information.
   * `blocks.dat`: Stores all created blocks/reports.
